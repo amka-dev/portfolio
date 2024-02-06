@@ -1,8 +1,10 @@
-# Getting Started with Create React App
+#№ Моё личное портфолио
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Этот проект был создан для тренировки а также чтобы упростить вам знакомство со мной.
 
-## Available Scripts
+## Использованные технологии:
+
+
 
 In the project directory, you can run:
 

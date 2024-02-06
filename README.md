@@ -17,7 +17,7 @@
 ## Запуск проекта:
 * Клонируйте проект на свой компьютер с Github с помощью команды:
 ```
-git clone [https://github.com/amka-dev/React-Bikes.git]
+git clone [https://github.com/amka-dev/portfolio.git]
 ```
 
 * Установите зависимости с помощью команды:
